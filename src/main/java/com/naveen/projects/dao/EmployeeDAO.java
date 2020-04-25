@@ -1,5 +1,7 @@
 package com.naveen.projects.dao;
 
+
+
 import com.naveen.projects.pojos.Employee;
 
 public interface EmployeeDAO {
